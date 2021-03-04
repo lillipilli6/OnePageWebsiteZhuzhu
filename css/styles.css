@@ -1,0 +1,60 @@
+
+/* Navigation */
+body {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: lightgray;
+
+}
+.nav {
+    padding: 20px;
+    background-color: grey;
+    display: inline-block;
+    width: 70px;
+    height: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* Section */
+section {
+    border: 1px solid black;
+}
+.left {
+    width: 250px;
+    height: 500px;
+    display: inline-block;
+    float: left;
+}
+.topOrange {
+    height: 200px;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 1px solid black;
+
+}
+.bottomOrange {
+    height: 300px;
+    padding: 10px;
+}
+.right {
+    width: 800px;
+    height: 480px;
+    display: inline-block;
+    border-left: 1px solid black;
+    padding: 20px;
+
+}
+.zhuzhu1 {
+    height: 150px;
+}
+.zhuzhu2 {
+    height: 300px;
+    float: left;
+    margin-right: 20px;
+}
+.ourCatBottom {
+    text-align: center;
+}
